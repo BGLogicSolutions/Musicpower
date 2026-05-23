@@ -1,0 +1,6 @@
+{
+  "name": "Musicpower",
+  "description": "Hi-Fi Local Music Player",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
